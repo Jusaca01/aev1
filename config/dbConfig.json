@@ -1,0 +1,6 @@
+{
+  "server": "servidor_db",
+  "user": "root",
+  "password": "root",
+  "dbname": "empresa"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "1ev/aev1",
+  "authors": [
+    {
+      "name": "JuanF-SanzCavero",
+      "email": "jusaca01@alumnatflorida.es"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AEV1\\": "src/",
+      "Config\\": "config/"
+    }
+  },
+  "require": {
+  }
+}
