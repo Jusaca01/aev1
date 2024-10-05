@@ -4,9 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #424141;
-}
-
-h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: whitesmoke;
 }
 
@@ -24,7 +22,6 @@ img {
 
 p {
     font-size: 28px;
-    color: whitesmoke;
     background-color: #2e2d2d;
     padding: 10px 15px 10px 15px;
     border: 1px solid black;
@@ -39,5 +36,27 @@ p:hover {
 a {
     text-decoration: none;
     color: inherit;
+}
+
+table {
+    margin-top: 50px;
+    border: 3px solid white;
+    border-collapse: collapse;
+    font-size: 25px;
+    text-align: center;
+    background-color: #2E2D2DFF;
+}
+
+tr {
+    border: 2px solid white;
+}
+
+td {
+    border: 2px solid white;
+    padding: 10px;
+}
+
+#categoria {
+    background-color: #1d1d4c;
 }
 
